@@ -1,0 +1,8 @@
+redux-ի գրադարանը նստցնելու համար--  npm i redux react-redux
+
+redux canky pahajum enq redux-thunk gradaranic  , ayn instal anelu hamar grum enq npm i redux-thunk
+
+ogtagorceluc redux petq e unenanq store:story da pahestanocn e: ev petq e unenanq global reducer:
+
+
+

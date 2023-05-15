@@ -1,0 +1,2 @@
+erb ogtagorcum enq mapStateToProps mapDispachToProps partadir e 
+React-redux-i gradaranic kanchel connect-y u poxancel mer 2 functiannery

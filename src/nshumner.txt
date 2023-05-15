@@ -1,0 +1,16 @@
+vorpesi xekavarenq ejeri sharjy petq e unenanq react-router-dom i gradarany 
+(ayn petq e instal anel-- npm i react-router-dom)
+
+
+react router domic kanchvum e brauzer routery vori mej petq e havaqvi mer bolor ejery:As-y nshanakume e poxarini:2-rdy routesn enq kanchum vori mej havaqvelu e mer aranjin pagerery:
+Ayn verahskoxutyun e sahmalenu amen eji chisht ashxatanqin:Routes-y hin switch-na:
+
+
+Isk bolor aranjin pagerey Route-ov en stanum:Routen stanume path vorin stancac anuny path-i
+depqum tanelu e ayn componenti ejy vory stacel e route-i element hatkutyuny:
+
+exact-ne nshanakume miayn
+
+
+
+NavLink-y a-in poxarinoxn e vory uni hatkutyun isActive vorov karox enq tal 2 class :ete is asActive e yndunum e arajin classy mnacacy 2rd classy

@@ -1,0 +1,20 @@
+substr(1,2) arajiny  indexa stanum 2rdy qanak
+orinak
+let arr= [1,2,3,4,5,6,7,8]
+log(arr.substr(4,3)) 
+
+
+ 
+let arr= [1,2,3,4,5,6,7,8]
+log(substring(2,4))  erkusune stanuma index orinak
+
+
+
+const-ու u let-ը գործողությունից դուրս հասանելի չեն
+դրսից ներս կարանք կանչենք, բայց ներսից դուրս չի օգտագործում։
+
+
+
+
+երբ փոփոխականը հայտարարված է var-ով ու անունը տված է name է արժեքը դիտարկվելու է text։ Սա բացառիկ դեպք է։
+

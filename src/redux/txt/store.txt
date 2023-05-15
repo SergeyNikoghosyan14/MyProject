@@ -1,0 +1,6 @@
+applyMiddleware import է արվում redux-ի գրադարանից
+
+որը ստանում է thunk-ը redux-thunk գրադարանից,
+այն կատարում է կարգավորում բոլոր անսինխրոն գործողությունների վրա:
+
+createStore-in փոխանցում ենք գլոբալ reducery և Middleware

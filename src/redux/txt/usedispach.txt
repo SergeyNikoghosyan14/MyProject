@@ -1,0 +1,1 @@
+useDispach-ը hook e react-redux-i gradaranic vorov reducerin enq pxancum mer arjeqy:

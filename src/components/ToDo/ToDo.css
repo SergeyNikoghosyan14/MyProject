@@ -1,0 +1,12 @@
+.item-delete{
+    cursor: pointer;
+}
+
+.strike{
+    color: yellow;
+    cursor: pointer;
+}
+.item-text{
+    color: blue;
+    cursor: pointer;
+}

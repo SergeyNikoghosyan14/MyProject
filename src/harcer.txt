@@ -1,0 +1,6 @@
+krknel axios zaprosi syntaxy,useFormy
+
+
+axios zaprosobv myanqamic stanum enq json fayl
+isk fetch-y mez talisa stringify-arac fayl
+

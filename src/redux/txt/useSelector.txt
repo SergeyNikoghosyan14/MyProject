@@ -1,0 +1,1 @@
+useSelector-y hook e react-redux-i gradaranic vorov kanchum enq mer redux-um pahpanac arjeqy
